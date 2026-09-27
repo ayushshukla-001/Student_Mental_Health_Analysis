@@ -73,15 +73,6 @@ The importance of mental health among college students cannot be overstated. As 
   - `LabelEncoder`
   - `accuracy_score`, `precision_score`, `recall_score`, `f1_score`, `classification_report`, `confusion_matrix`, `roc_curve`, `roc_auc_score`
 
-## Project Structure
-
-```
-.
-├── Student Mental health.csv          # Raw survey dataset
-├── student-mental-analysis-eda-ml.ipynb  # EDA + ML notebook
-└── README.md
-```
-
 ## Getting Started
 
 ### Prerequisites
